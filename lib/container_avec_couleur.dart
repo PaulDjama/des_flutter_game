@@ -19,6 +19,7 @@ class ContainerAvecCouleur extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
+      //container
       decoration: BoxDecoration(
         gradient: LinearGradient(
             begin: Alignment.topLeft,
