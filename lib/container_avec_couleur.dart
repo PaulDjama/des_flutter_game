@@ -15,8 +15,7 @@ class ContainerAvecCouleur extends StatelessWidget {
     // required this.color3,
     //required Center child,
     required this.couleurs,
-  }) : super(key: key);
-
+  }) : super(key: key); //nouveau commentaire
   @override
   Widget build(BuildContext context) {
     return Container(
